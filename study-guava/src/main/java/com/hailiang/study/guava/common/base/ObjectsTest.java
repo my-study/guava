@@ -5,7 +5,7 @@ import org.junit.Test;
 import com.google.common.base.Objects;
 
 public class ObjectsTest {
-	
+
 	/**
 	 * equals
 	 */
